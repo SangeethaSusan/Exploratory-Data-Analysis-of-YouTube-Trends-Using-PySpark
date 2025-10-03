@@ -1,2 +1,4 @@
-# YouTube-Analysis-
-A YouTube Analysis of data from countries.
+# Exploratory Data Analysis of YouTube Trends Using PySpark
+In the digital era, YouTube has become an irreplaceable part of our lives. We can use YouTube to get almost all the information. People around the world are now connected to one place, and we can see around the world on YouTube. Nowadays, people are making money out of YouTube.
+In this project, we are doing an exploratory analysis on YouTube data of 10 different countries, namely Canada, Denmark, France, Great Britain, India, Japan, Korea, Mexico, Russia and the USA. To do the analysis, we use a Python library, PySpark, as a big data tool. We have cleaned the data and queried all the information using SQL queries in PySpark.
+The insights derived from this study aim to provide a deeper understanding of global YouTube usage patterns while also demonstrating the effectiveness of PySpark as a tool for large-scale data analysis.
